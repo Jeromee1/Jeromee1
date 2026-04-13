@@ -26,6 +26,16 @@ A software engineering student at Forward College with hands-on experience in fu
 
 ---
 
+# Projects
+
+| Link | Description |
+| ---- | ----------- |
+| <a href="https://github.com/Jeromee1/Vapour"><img src="assets/Vapour_v2.png" width="150px" /></a> | A full-stack game store platform, featuring game browsing, cart, wishlist, user reviews, library, friends, and a PayPal Sandbox payment simulation. Sole developer responsible for full-stack development, UI/UX design, database architecture, and admin/user role systems including banner-reactive theme changing.<br><br>![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) |
+| <a href="https://github.com/Jeromee1/ACW-Android"><img src="assets/acw_logo.png" width="150px" /></a> | An Android cinema booking app based on my web app, featuring movie browsing, seat selection, ticket purchasing simulation, and booking management. Sole developer responsible for full-stack mobile development including admin systems for managing movies, halls, screenings, seat states, and conflict validation.<br><br>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| <a href="https://github.com/Jeromee1/Alumni-Directory-Mobile-App"><img src="assets/AlumniDirectoryAppIcon.png" width="150px" /></a> | An alumni networking platform with approval-gated access, alumni profile browsing, and an admin dashboard for user management and platform statistics. Contributed as frontend developer and UX designer, handling UI implementation, login flow, and profile pages in a 2-person team.<br><br>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+
+---
+
 <h2>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/left-brace.svg" /> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name: Jeremy Ho <br>
