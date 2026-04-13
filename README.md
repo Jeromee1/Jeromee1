@@ -26,6 +26,12 @@ A software engineering student at Forward College with hands-on experience in fu
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeromee1&theme=nord_dark" />
+</div>
+
+---
+
 # Projects
 
 | Link | Description |
@@ -40,10 +46,8 @@ A software engineering student at Forward College with hands-on experience in fu
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/left-brace.svg" /> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name: Jeremy Ho <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;student_at: Forward College <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email: jeremyho885@gmail.com <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/right-brace.svg" />
 </h2>
 
-<a href="https://www.linkedin.com/in/jeremy-ho-1760633a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-jeremyho885@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremyho885@gmail.com) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-ho-1760633a0/)
